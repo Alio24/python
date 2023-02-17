@@ -21,7 +21,7 @@ print(per_day)
 
 # Part 3
 print("Hello world")
-name = "Nina"
+name = "Ali"
 print("My name is", name)
 
 name = "Nina"
